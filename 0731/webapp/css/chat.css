@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+#content {
+	margin: 80px auto 0 auto;
+	position:relative;
+	z-index:999;
+	width: 1000px;
+}
+
 #chattingSection {
 	width: 600px;
 	height: 800px;
